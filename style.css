@@ -1,0 +1,67 @@
+.ui.top.menu.fixed.borderless{
+  background-color: #272B33;
+  border-bottom-width: 2px;
+  border-bottom-color: #0aa0d2;
+  box-shadow: none;
+}
+
+.ui.top.menu.fixed.borderless .menu.game {
+  background-color: #272B33;
+}
+
+.ui.menu .ui.dropdown .menu.game>.item {
+  color: white!important;
+}
+
+.ui.menu .ui.dropdown .menu.game>.item:hover {
+  color: ivory!important;
+}
+
+.ui.menu.borderless.second {
+  background-image: url("http://nxcache.nexon.net/maplestory/assets-new/img/glory/home/nav/nav-desktop-tablet.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-top: 40px;
+  margin-bottom: 0px;
+  padding: 15px;
+}
+
+.ui.menu.borderless.second .item {
+  color: #00FFD5;
+  text-shadow: 0 2px 2px black;
+ }
+
+.ui.menu .ui.dropdown .menu>.item {
+  text-shadow: 0 0 0 black;
+}
+
+#row {
+  background-image: url("http://nxcache.nexon.net/maplestory/assets-new/img/glory/home/bg/bg-middle-desktop-tablet.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.ui.items>.item>.image+.content {
+  background-color: white;
+}
+
+.ui.items>.item>.content>.header {
+  padding-top: 30px;
+}
+
+#footer{
+  background-image: url("http://nxcache.nexon.net/maplestory/assets-new/img/bg_footer.png");
+  background-repeat: repeat;
+  height: 20%;
+  border-color: #0D8D79;
+  border-top-width: 2px;
+  border-bottom-width: 0px;
+  border-left-width: 0px;
+  border-right-width: 0px;
+  border-style: solid;
+}
+
+/*.ui.menu.bottom.borderless .item {*/
+/*  background-color: black;*/
+/*  color: white;*/
+/*}*/
